@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "name": "harsh",
+      "email": "h@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "abcd",
+      "email": "a@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "hotels": [
+    {
+      "category": "Family",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": 2,
+      "capacity": 2,
+      "cost": 150,
+      "booked": true,
+      "id": 1
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "NON-AC",
+      "bed_type": "Single",
+      "no_of_persons": 1,
+      "capacity": 4,
+      "cost": 170,
+      "booked": true,
+      "id": 2
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "NON-AC",
+      "bed_type": "Single",
+      "no_of_persons": 1,
+      "capacity": 4,
+      "cost": 190,
+      "booked": true,
+      "id": 3
+    }
+  ]
+}
